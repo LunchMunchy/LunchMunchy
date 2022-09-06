@@ -1,4 +1,6 @@
-👋 Hi, I’m @LunchMunchy. I've always wall-fly'd around the tech community. But I feel like it time to start adding value.
+👋 Call me LunchMunchy.
+
+Wall-fly'd around tech for too long. It's time to start adding value.
 
 I perpetually feel like a Junior 🌱 in all things cyber \
 But focus is Cloud Engineering + DevSecOps ☁️☁️☁️ \
