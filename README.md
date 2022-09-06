@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @LunchMunchy
-- 👀 I’m interested in Cloud Engineering and DevSecOps
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @HeyPaulTan
+👋 Hi, I’m @LunchMunchy. I've always wall-fly'd around the tech community. But I feel like it time to start adding value.
+
+Still feel like a Junior 🌱 in all things cyber.
+Focusing on Cloud Engineering + DevSecOps ☁️☁️☁️
+(It's all about that #100DaysOfKubernetes game)
+
+My biggest side project is still a brain child. It's an non-social network networking app. Love to talk if you're interested @HeyPaulTan.
 
 <!---
 LunchMunchy/LunchMunchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
